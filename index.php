@@ -17,13 +17,6 @@
         case '/about':
             Include __DIR__.'/pages/about.php';
             break;
-            
-        case '/about':
-            Include __DIR__.'/pages/about.php';
-            break;
         
-        default:
-            # code...
-            break;
     }
 ?>
