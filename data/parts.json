@@ -1,0 +1,80 @@
+[
+  {
+    "id": "part-101",
+    "sku": "TY-CAM18-HL-01",
+    "name": "Sequential LED Projector Headlamps",
+    "category": "headlamps",
+    "price": 249.00,
+    "original_price": 320.00,
+    "image_url": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=600&q=80",
+    "description": "Upgrade your standard factory yellow halogen beams with high-intensity sequential LED projectors. Includes Daytime Running Lights (DRL) bar, aggressive startup animation sequence, and pure white light dispersion.",
+    "specifications": [
+      "Plug-and-play wiring harness",
+      "Durable UV-coated polycarbonate lens",
+      "SAE/DOT Compliant",
+      "12-Month warranty"
+    ],
+    "compatibility": [
+      {
+        "make": "toyota",
+        "model": "camry",
+        "years": "2018-2021",
+        "chassis": "XV70"
+      },
+      {
+        "make": "honda",
+        "model": "accord",
+        "years": "2018-2022",
+        "chassis": "CV1/CV2"
+      }
+    ]
+  },
+  {
+    "id": "part-102",
+    "sku": "HD-CIV16-BN-02",
+    "name": "OEM-Style Steel Bonnet",
+    "category": "bonnets",
+    "price": 299.00,
+    "original_price": 380.00,
+    "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80",
+    "description": "Heavy-duty replacement steel hood manufactured to exact factory specifications. Features pre-drilled holes for insulation hooks and matches perfectly with stock hinges and latch.",
+    "specifications": [
+      "High-tensile steel construction",
+      "Primed and ready for paint",
+      "Factory latch compatibility",
+      "Secure crate packaging"
+    ],
+    "compatibility": [
+      {
+        "make": "honda",
+        "model": "civic",
+        "years": "2016-2021",
+        "chassis": "FC/FK"
+      }
+    ]
+  },
+  {
+    "id": "part-103",
+    "sku": "TY-COR19-BP-03",
+    "name": "Front Bumper & Mesh Grille Assembly",
+    "category": "bumpers",
+    "price": 189.00,
+    "original_price": 240.00,
+    "image_url": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=600&q=80",
+    "description": "Impact-resistant ABS front bumper cover package. Includes sporty mesh grille panels, fog light bezel covers, and underbody splash guard mount brackets.",
+    "specifications": [
+      "Ultra-flexible ABS plastic",
+      "Precision molded",
+      "Matte black paintable finish",
+      "OEM clip-in style install"
+    ],
+    "compatibility": [
+      {
+        "make": "toyota",
+        "model": "corolla",
+        "years": "2019-2023",
+        "chassis": "E210"
+      }
+    ]
+  }
+]
